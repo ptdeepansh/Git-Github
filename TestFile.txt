@@ -1,4 +1,4 @@
-username: deepanshu
+username: deepanshu sharma
 linkedIn: @ptdeepansh
 I am a BCA Student!
 Leaning Git and GitHub for VCS/SCM
