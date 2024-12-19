@@ -3,5 +3,6 @@ username: deepanshu sharma
 email: pt.deepanshuu@gmail.com
 linkedIn: @ptdeepansh
 Website: https://devdeepansh.42web.io
+GitHub: https://github.com/ptdeepansh/
 I am a BCA Student!
 Leaning Git and GitHub for VCS/SCM
